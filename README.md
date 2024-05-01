@@ -36,4 +36,5 @@ This project explores the development and optimization of Multi-Layer Perceptron
 The optimized CNN and MLP models achieved remarkable results in classifying handwritten digits and characters from the EMNIST dataset. Here are the key findings:
 
 **Accuracy:** Both the CNN and MLP models achieved an accuracy of approximately 85% on the test dataset, showcasing their effectiveness in accurately classifying handwritten characters.
+
 **Comparison:** While CNNs are typically favored for image classification tasks due to their ability to exploit spatial data, both CNN and MLP models exhibited excellent performance. The slightly better performance of the MLP model may be attributed to the exhaustive hyperparameter tuning process and the capacity of MLPs to model non-linear relationships.
