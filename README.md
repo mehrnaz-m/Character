@@ -38,3 +38,6 @@ The optimized CNN and MLP models achieved remarkable results in classifying hand
 **Accuracy:** Both the CNN and MLP models achieved an accuracy of approximately 85% on the test dataset, showcasing their effectiveness in accurately classifying handwritten characters.
 
 **Comparison:** While CNNs are typically favored for image classification tasks due to their ability to exploit spatial data, both CNN and MLP models exhibited excellent performance. The slightly better performance of the MLP model may be attributed to the exhaustive hyperparameter tuning process and the capacity of MLPs to model non-linear relationships.
+
+## License
+The dataset used in this project, sourced from Kaggle, is subject to Kaggle's terms of use and licensing agreements. For specific details regarding the dataset's license and permissible uses, please refer to the original dataset on [Kaggle's website](https://www.kaggle.com/datasets/crawford/emnist). Any redistribution or commercial use of the dataset may require proper attribution and adherence to Kaggle's terms and conditions.
